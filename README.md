@@ -1,2 +1,2 @@
 # odin-recipes
-project made whilst learning from the odin project
+html foundations project made whilst learning from the odin project
