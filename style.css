@@ -1,0 +1,14 @@
+button {
+    cursor: pointer;
+}
+
+#chef-thumbs-up {
+    width: 500px;
+}
+
+#struggle-meal-img {
+    height: 600px;
+    width: 500px;
+    object-fit: cover;
+}
+
